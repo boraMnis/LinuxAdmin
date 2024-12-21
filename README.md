@@ -44,4 +44,4 @@ Aqui estão alguns dos meus projetos:
 
 ![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=boraMnis&layout=compact&theme=radical)
 
-Obrigado por visitar o meu perfil!
+Obrigado por visitar o meu humilde perfil!
